@@ -30,7 +30,7 @@ public final class MathMethods {
     }
 
     public static boolean prime(int a) {
-        if(a < 1)
+        if(a <= 1)
             return false;
         for(int i = 1; i <= Math.sqrt(a); i++) {
             if(gcd(i, a) != 1)
