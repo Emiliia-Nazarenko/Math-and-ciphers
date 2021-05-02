@@ -1,6 +1,6 @@
-package mainpackege;
+package calculator;
 
-public class NonSuitableNumberException extends Exception {
+class NonSuitableNumberException extends Exception{
     public NonSuitableNumberException(String message) {
         super(message);
     }

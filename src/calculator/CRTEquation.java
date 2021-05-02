@@ -1,5 +1,8 @@
-package mainpackege;
+package calculator;
 
+/**
+ * The object of this class is a modular equation of the form x = x mod n.
+ */
 public class CRTEquation {
     private int x;
     private int n;
