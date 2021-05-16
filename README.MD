@@ -1,9 +1,9 @@
 # MathAndCipher
-There are several Math Methods and Cipheres in this program. 
+There are several Math Methods and Cipheres. 
 
 # Ciphers
 
-## ENG-RUS 
+## ENG 
 1. Affine cipher
 2. Caesar cipher
 3. Vigenere cipher
