@@ -1,9 +1,9 @@
-# MathAndCipher
+# Math And Ciphers
 There are several Math Methods and Cipheres. 
 
-# Ciphers
+## Ciphers
 
-## ENG 
+ENG 
 1. Affine cipher
 2. Caesar cipher
 3. Vigenere cipher
